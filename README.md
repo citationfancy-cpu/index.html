@@ -466,19 +466,6 @@ font-size:32px;
 
 </section>
 
-<section id="blog">
-
-<h2 class="section-title">Latest Blog</h2>
-
-<div class="blogs">
-
-<div class="blog">
-<img src="https://images.unsplash.com/photo-1484154218962-a197022b5858">
-<div>
-<h3>Planning Your Kitchen Remodel</h3>
-<p>Learn how proper planning helps create a functional and beautiful kitchen.</p>
-</div>
-</div>
 <h2 class="section-title">Frequently Asked Questions</h2>
 
 <div class="faq">
